@@ -11,7 +11,7 @@ body{
     width: 70%;
     margin: auto;
     margin-top: 50px;
- 
+    background-color: #e7bd76;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
     }
@@ -24,6 +24,7 @@ body{
     float: left;
     width: 500px;
     height: 400px;
+   
     }
     .form{
     width: 100%;
