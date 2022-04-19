@@ -3,7 +3,7 @@ body{
     padding: 0;
     background: linear-gradient(115deg,#ecc884 10%,#d48baa 90%);
     }
-    /* container */
+    
     .container{
     
     display: flex;
@@ -31,8 +31,7 @@ body{
     height: 150%;
     background-color: whitesmoke;
     float: right;
-    /* border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px; */
+ 
     
     }
  
@@ -74,7 +73,7 @@ body{
     
     }
     .header{
-    margin-left: 8%;
+    margin-left: 5%;
     }
     .form-item{
     margin-bottom: 25px;
@@ -136,6 +135,8 @@ body{
     .spn{
     color: black;
     margin-left: 2%;
+    background-color: rgb(216, 208, 208);
+    padding: 10px;
     }
     .line {
     display: flex;
