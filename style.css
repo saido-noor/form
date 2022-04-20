@@ -73,7 +73,10 @@ body{
     
     }
     .header{
-    margin-left: 5%;
+    margin-left: 18%;
+    margin-right: 10%;
+    border: none;
+    
     }
     .form-item{
     margin-bottom: 25px;
@@ -131,10 +134,13 @@ body{
     }
     span{
     color: blue;
+    padding: 20px;
+   
     }
     .spn{
     color: black;
-    margin-left: 2%;
+    border-radius: 10%;
+    margin-left: 3%;
     background-color: rgb(216, 208, 208);
     padding: 10px;
     }
